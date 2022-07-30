@@ -3,7 +3,7 @@ An simple live clock showing live Time using react and Js.
 
 In this app the basic concept of REACT HOOK- USESTATE and Condtional Rendering , component architecture, etc are tried. 
 SEE THE DEPLOYMENT @
-https://cosmoverse2000.github.io/Emojipedia/
+https://cosmoverse2000.github.io/Clock/
 
 # Create React App [![Build Status](https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=main)](https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&branchName=main) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
 
